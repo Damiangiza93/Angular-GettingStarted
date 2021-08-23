@@ -1,0 +1,16 @@
+
+ng new nazwa-projektu --prefix hw       - new-tworzenie nowego projektu angular --prefix hw - ustawienie prefixu
+spyta o routing
+spyta o rodzaj stylesheet - CSS SCSS SASS LESS
+
+ng g g products/products-detail         - tworzenie guard g-generate g-guard ścieżka gdzie utworzyć
+ng g c products/product-detail --flat   - tworzenie component g-generate c-component ścieżka gdzie utworzyć --flat-bez tworzenia podfolderu
+ng g m products/product --flat -m app   - tworzenie modulu g-generate m-module sciezka --flat-bez podfolderu -m app dodaj do importow modulu app
+ng g d                                  - tworzenie direktive
+ng g i                                  - tworzenie interface
+ng g p                                  - tworzenie pipe
+ng g s                                  - tworzenie service
+
+sudo npm install -g @angular/cli        - instalacja modulu ng 
+ng --version                            - sprawdzenie wersji modulu ng
+ng serve                                - uruchomienie
